@@ -1,0 +1,11 @@
+D:\.dev\repos\hshan-1\apka\bin\Debug\apka.exe.config
+D:\.dev\repos\hshan-1\apka\bin\Debug\apka.exe
+D:\.dev\repos\hshan-1\apka\bin\Debug\apka.pdb
+D:\.dev\repos\hshan-1\apka\obj\Debug\apka.csproj.AssemblyReference.cache
+D:\.dev\repos\hshan-1\apka\obj\Debug\apka.csproj.SuggestedBindingRedirects.cache
+D:\.dev\repos\hshan-1\apka\obj\Debug\apka.Form1.resources
+D:\.dev\repos\hshan-1\apka\obj\Debug\apka.Properties.Resources.resources
+D:\.dev\repos\hshan-1\apka\obj\Debug\apka.csproj.GenerateResource.cache
+D:\.dev\repos\hshan-1\apka\obj\Debug\apka.csproj.CoreCompileInputs.cache
+D:\.dev\repos\hshan-1\apka\obj\Debug\apka.exe
+D:\.dev\repos\hshan-1\apka\obj\Debug\apka.pdb
